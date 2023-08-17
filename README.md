@@ -1,1 +1,1 @@
-# InitPython
+# Init Python
