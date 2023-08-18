@@ -74,7 +74,7 @@ def main():
         
         #glTranslatef(0.0, paramW, paramS)
 
-        glRotatef(paramW*0.1, paramW, 0, paramD)
+        glRotatef(1, 3, 1, 1)
 
         #paramS = 0.0
         #paramW = 0.0
